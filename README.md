@@ -1,2 +1,5 @@
 # epic-color-picker
-color picker with many diffrent formats for color
+color picker with many different formats for color
+
+
+# !!windows will flag for some unknown reason!!
